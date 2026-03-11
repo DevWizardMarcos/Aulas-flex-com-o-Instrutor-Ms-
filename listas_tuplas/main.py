@@ -203,12 +203,12 @@
 # print(nomes[0])
 
 
-frutas = ('Laranja','Uva','Pera','Abacaxi','Banana')
+# frutas = ('Laranja','Uva','Pera','Abacaxi','Banana')
 
-perguntar = 'Banana'
+# perguntar = 'Banana'
 
 
-if perguntar in frutas:
-    print(f'rapz possui {frutas.count(perguntar)} uma  ')
-else:
-    print('nao possui')
+# if perguntar in frutas:
+#     print(f'rapz possui {frutas.count(perguntar)} uma  ')
+# else:
+#     print('nao possui')
